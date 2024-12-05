@@ -12,11 +12,7 @@ Este proyecto es un sitio web diseñado para simular un restaurante con múltipl
 
 El proyecto se ha desarrollado utilizando tecnologías web estándar.
 
-## **Instalación**
-Para ver el proyecto en acción:
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/tu-repositorio.git
+
 
 ## **Tecnologías Principales**
 
